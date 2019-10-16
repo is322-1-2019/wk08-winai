@@ -1,0 +1,31 @@
+{
+  "people": [
+    {
+      "title": "นาย",
+      "firstName": "กกก",
+      "lastName": "กกก",
+      "isActive": false,
+      "id": 6
+    },
+    {
+      "title": "นาย",
+      "firstName": "กกกก",
+      "lastName": "ขขข",
+      "isActive": false,
+      "id": 7
+    }
+  ],
+  "forums": [
+    {
+      "category" : "Regional",
+      "id": 1
+    },
+    {
+        "category" : "XXX",
+        "id": 2
+    }
+  ],
+  "students": [
+
+  ]
+}

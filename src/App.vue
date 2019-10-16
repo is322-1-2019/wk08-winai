@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <ex01-page class="card"></ex01-page>
-    <ex02-page class="card"></ex02-page>
-    <ex03-page class="card"></ex03-page>
+    <ex01-page v-show="false" class="card"></ex01-page>
+    <ex02-page v-show="false" class="card"></ex02-page>
+    <ex03-page v-show="true" class="card"></ex03-page>
   </div>
 </template>
 
